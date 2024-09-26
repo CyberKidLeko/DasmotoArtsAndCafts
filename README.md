@@ -4,7 +4,7 @@ Description
 This project was created as part of a Codecademy assignment. It demonstrates the use of HTML and CSS to build a static web page that includes structured content, styling elements, and layout design principles.
 
 Features
-Semantic HTML Structure: Utilizes semantic elements such as <header>, <nav>, <section>, <article>, and <footer> to create a well-organized and accessible layout.
+Semantic HTML Structure: Utilizes semantic elements such as "<header>, <nav>, <section>, <article>, and <footer>" to create a well-organized and accessible layout.
 Responsive Design: The layout adjusts to different screen sizes using media queries and flexible units.
 Styling with CSS: Custom styling is applied to different elements using external CSS. The stylesheet includes properties for layout, typography, colors, and more.
 Navigation Menu: A basic navigation menu is implemented using HTML lists and styled using CSS.
