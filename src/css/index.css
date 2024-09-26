@@ -1,0 +1,57 @@
+h1{
+    font-family:Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    
+    position: absolute;
+    ;
+}
+.container {
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+
+
+}
+
+#brushes h2{
+ background-color: mediumspringgreen;
+ margin: 0;
+ color: white;
+}
+
+#paint h2{
+    background-color: lightcoral;
+    color: white;
+   } 
+   
+#frames h2{
+    background-color: skyblue;
+    color: white;
+   }
+
+strong{
+    color: blue;
+}
+
+p{
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+div{
+    height: 0px;
+    width: 20%;
+    position: relative;
+    display: block;
+    z-index: 1;
+    padding: 10px auto;
+    
+}
+head{
+    height: 100px;
+    margin:100px;
+    padding:10px;
+}
