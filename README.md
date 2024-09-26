@@ -16,16 +16,7 @@ Installation
 To view the project locally:
 
 Clone or download the repository.
-Open the index.html file in a web browser.
-File Structure
-graphql
-Copy code
-DasmotoArts and crafts/
-│
-├── index.html         # Main HTML file for the webpage
-├── style.css          # External CSS file for styling
-├── README.md          # Project documentation file
-└── images/            # Folder containing image assets (if any)
+
 Usage
 This project can be used as a template or reference for building basic web pages using HTML and CSS. Feel free to modify and enhance it as per your requirements.
 
